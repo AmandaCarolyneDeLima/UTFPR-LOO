@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Pedido
+comment0.text=\n\ Classe\ Pedido.\ Implementar\:\ fechaConta\ e\ toString.\n
+comment1.params=
+comment1.target=Pedido()
+comment2.params=nome\ valor
+comment2.target=void\ adicionarItem(java.lang.String,\ java.lang.Double)
+comment3.params=
+comment3.target=java.lang.Double\ fechaConta()
+comment3.text=\n\ Este\ metodo\ deve\ ser\ implementado\ pelo\ aluno.\n\ @return\ retornar\ a\ soma\ dos\ valores\ de\ todos\ os\ itens\ do\ pedido.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Este\ metodo\ deve\ ser\ implementado\ pelo\ aluno.\n\ @return\ todos\ os\ itens\ e\ seus\ respectivos\ valores,\ ex\:\n\ \ \ \ \ \ Pedido\:\n\ \ \ \ \ \ \ \ \ \ item\ X\ R$--.--\n\ \ \ \ \ \ \ \ \ \ item\ Y\ R$--.--\n
+numComments=5

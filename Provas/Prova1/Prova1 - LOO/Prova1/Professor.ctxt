@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=nome\ matricula\ senha
+comment1.target=Professor(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMatricula()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=titulo
+comment4.target=void\ apresentacao(java.lang.String)
+numComments=5

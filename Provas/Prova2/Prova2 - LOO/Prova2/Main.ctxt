@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Main()
+comment3.params=
+comment3.target=void\ imprimeResumo()
+comment3.text=\n\ Este\ metodo\ deve\ ser\ implementado\ pelo\ aluno,\ deve\ imprimir\ no\ console\ um\ resumo\n\ de\ todas\ as\ mesas\ e\ suas\ respectivas\ despesas,\ qualquer\ padrao\ de\ impressao\ diferente\n\ do\ apresentado\ a\ seguir\ ser\u00E1\ desconsiderado,\ siga\ o\ exemplo\:\n\n\ \ \ \ \ Mesa\ 1\ (Salao\ Principal)\n\ \ \ \ \ \ \ Pedido\:\n\ \ \ \ \ \ \ \ \ Refrigerante\ R$2.99\n\ \ \ \ \ \ \ \ \ X-Salada\ R$7.99\n\ \ \ \ \ \ \ Despesa\:10.98\n\n\ \ \ \ \ Mesa\ 2\ (Salao\ Principal)\n\ \ \ \ \ \ \ Pedido\:\n\ \ \ \ \ \ \ \ \ X-Bacon\ R$10.5\n\ \ \ \ \ \ \ \ \ Suco\ Natural\ R$3.99\n\ \ \ \ \ \ \ Despesa\:14.49\n\n\ \ \ \ \ Mesa\ 3\ (Area\ de\ Fumantes)\n\ \ \ \ \ \ \ Pedido\:\n\ \ \ \ \ \ \ \ \ Salada\ de\ Frutas\ R$5.5\n\ \ \ \ \ \ \ \ \ X-Salada\ R$7.99\n\ \ \ \ \ \ \ Despesa\:13.49\n\n\ \ \ \ \ Mesa\ 4\ (Area\ de\ Fumantes)\n\ \ \ \ \ \ \ Pedido\:\n\ \ \ \ \ \ \ \ \ Sorvete\ de\ Morango\ R$8.0\n\ \ \ \ \ \ \ \ \ Despesa\:8.0\n\n\ \ \ \ \ Valor\ total\:\ R$46.96\n
+numComments=4

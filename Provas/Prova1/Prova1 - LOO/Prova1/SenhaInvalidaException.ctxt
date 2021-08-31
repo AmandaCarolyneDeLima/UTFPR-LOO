@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SenhaInvalidaException
+comment1.params=msgError
+comment1.target=SenhaInvalidaException(java.lang.String)
+numComments=2
